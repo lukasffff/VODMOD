@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+openai
+python-dotenv
+opencv-python
+python-multipart
